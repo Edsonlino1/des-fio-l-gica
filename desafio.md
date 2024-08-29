@@ -1,4 +1,4 @@
-### Desáfio do Heroi
+# Desáfio do Heroi
 
 Nesse desafio de código por mais que pareça simples, foi um desáfio muito interessante para mim. Pois me fez sair da teoria e por em prática os conhecimentos adquiridos no curso, dando um passo muito importante para minha carreira como desenvolvedor. 
 
@@ -21,7 +21,7 @@ Por exemplo:
     nivel = "Bronze";
 }
 
-# Variaveis que utilizei:
+## Variaveis que utilizei:
 
 let herois = ["Super Homem", "homem aranha", "Mulher Maravilha", "Flash", "hulk"]
 let nivelXp = 1000
@@ -31,4 +31,4 @@ let xp;
 ## Por fim
 
 Para rodar o código utilizei: 👇
-# "console.log("O herói de nome " + herois [0] + " está no nivel " + xp)"
+### "console.log("O herói de nome " + herois [0] + " está no nivel " + xp)"
